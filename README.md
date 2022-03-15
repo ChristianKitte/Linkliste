@@ -39,6 +39,13 @@ https://onewheelstudio.com/blog/2021/6/27/changing-action-maps-with-unitys-new-i
 
 https://docs.unity3d.com/Manual/class-PhysicMaterial.html
 
+https://www.raywenderlich.com/2163461-advanced-vr-interactions-in-unity-tutorial#toc-anchor-006
+
+https://sneakydaggergames.medium.com/vr-in-unity-managing-controller-input-and-hand-presence-part-1-controller-set-up-792682dd024d
+
+https://sneakydaggergames.medium.com/vr-in-unity-managing-controller-input-and-hand-presence-part-2-creating-animated-hands-83de1b7a46ed
+
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html
 
 
 ## Android und Kotlin
@@ -50,6 +57,12 @@ https://stackoverflow.com/questions/55904099/how-to-wait-for-all-coroutines-to-f
 https://stackoverflow.com/questions/66030107/how-to-resolve-fatal-signal-11-sigsegv-code-1-segv-maperr-fault-addr-0x0-i
 
 https://infos-geek.com/de/comment-activer-le-debogage-usb-sur-oppo/
+
+https://atifkhurshid.medium.com/the-android-operating-system-1faf271e07d
+
+https://www.geeksforgeeks.org/how-to-build-a-simple-alarm-setter-app-in-android/
+
+https://www.tutorialspoint.com/how-to-call-an-activity-method-from-a-fragment-in-android-app
 
 
 
